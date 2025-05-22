@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dizzy</string>
+    <string name="txtIntro">In &amp; Out\nGet in, <font color='3f95ec'>get it done</font>, get out</string>
+    <string name="txtSupIntro">Quick moves, smart choices.</string>
+
+</resources>
